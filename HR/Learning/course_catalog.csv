@@ -1,0 +1,51 @@
+course_id,skill_name,description,skill_type
+C0001,Leadership,Leadership course description for C0001,Tech
+C0002,Problem Solving,Problem Solving course description for C0002,Tech
+C0003,Teamwork,Teamwork course description for C0003,Tech
+C0004,Python,Python course description for C0004,Tech
+C0005,Big Data,Big Data course description for C0005,Tech
+C0006,Teamwork,Teamwork course description for C0006,Tech
+C0007,Problem Solving,Problem Solving course description for C0007,Tech
+C0008,Problem Solving,Problem Solving course description for C0008,Tech
+C0009,Problem Solving,Problem Solving course description for C0009,Tech
+C0010,Java,Java course description for C0010,Tech
+C0011,Teamwork,Teamwork course description for C0011,Soft
+C0012,Communication,Communication course description for C0012,Soft
+C0013,Python,Python course description for C0013,Soft
+C0014,Time Management,Time Management course description for C0014,Soft
+C0015,Java,Java course description for C0015,Tech
+C0016,Leadership,Leadership course description for C0016,Tech
+C0017,Big Data,Big Data course description for C0017,Soft
+C0018,Time Management,Time Management course description for C0018,Tech
+C0019,Big Data,Big Data course description for C0019,Tech
+C0020,SQL,SQL course description for C0020,Tech
+C0021,Communication,Communication course description for C0021,Tech
+C0022,Communication,Communication course description for C0022,Tech
+C0023,Java,Java course description for C0023,Tech
+C0024,Leadership,Leadership course description for C0024,Tech
+C0025,Big Data,Big Data course description for C0025,Tech
+C0026,Communication,Communication course description for C0026,Soft
+C0027,Communication,Communication course description for C0027,Tech
+C0028,Leadership,Leadership course description for C0028,Soft
+C0029,Leadership,Leadership course description for C0029,Soft
+C0030,JavaScript,JavaScript course description for C0030,Tech
+C0031,Java,Java course description for C0031,Tech
+C0032,Time Management,Time Management course description for C0032,Tech
+C0033,Big Data,Big Data course description for C0033,Tech
+C0034,Communication,Communication course description for C0034,Soft
+C0035,Time Management,Time Management course description for C0035,Soft
+C0036,Java,Java course description for C0036,Soft
+C0037,Big Data,Big Data course description for C0037,Soft
+C0038,SQL,SQL course description for C0038,Soft
+C0039,JavaScript,JavaScript course description for C0039,Soft
+C0040,Time Management,Time Management course description for C0040,Tech
+C0041,Problem Solving,Problem Solving course description for C0041,Tech
+C0042,SQL,SQL course description for C0042,Soft
+C0043,Big Data,Big Data course description for C0043,Soft
+C0044,Communication,Communication course description for C0044,Soft
+C0045,Teamwork,Teamwork course description for C0045,Soft
+C0046,Teamwork,Teamwork course description for C0046,Soft
+C0047,Python,Python course description for C0047,Soft
+C0048,Leadership,Leadership course description for C0048,Soft
+C0049,Leadership,Leadership course description for C0049,Tech
+C0050,Problem Solving,Problem Solving course description for C0050,Tech
